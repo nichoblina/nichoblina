@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="https://jmp.sh/7HaVHUi0">
+  <img width="650" src="nicholai_ghub_banner.gif">
 </p>
 
 <!--
