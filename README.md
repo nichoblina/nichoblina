@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img width="250" src="https://jmp.sh/7HaVHUi0">
+</p>
 
 <!--
 **nichoblina/nichoblina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
