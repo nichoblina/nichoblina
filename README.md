@@ -3,7 +3,7 @@
 </p>
 
 ## Bio
-- 🏫 Studying at **University of San Carlos, Cebu, PH**
+- 🏫 Graduated at **University of San Carlos, Cebu, PH**
 - 💬 Able to speak in English, Filipino, and Bisaya
 - 📱 Interested in frontend development
 - 🎯 Aiming to learn more JS Frameworks
